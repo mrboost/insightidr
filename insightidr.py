@@ -1,8 +1,3 @@
-# InsightIDR4Py.py
-# Author: Micah Babinski
-# Date: 10/1/2021
-# Description: Contains useful functions for working with the Rapid7 InsightIDR REST API
-
 # import required modules
 import requests, json, time
 from datetime import datetime
